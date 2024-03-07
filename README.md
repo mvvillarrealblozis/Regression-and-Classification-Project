@@ -11,7 +11,7 @@ Here are the guidelines to design the report:
 
 3. Display and explain your results.
 
-### Dataset Used
+### [Dataset Used](https://usfca.instructure.com/courses/1620646/files/71909377/download?wrap=1)
 Walmart
 
 This is a Women’s Clothing E-Commerce dataset revolving around the reviews written by customers. Its nine supportive features offer a great environment to parse out the text through its multiple dimensions. Because this is real commercial data, it has been anonymized, and references to the company in the review text and body have been replaced with “retailer”.
@@ -33,6 +33,3 @@ Womens Clothing E-Commerce Reviews.csv.zipDownload Womens Clothing E-Commerce Re
 Does Age, Rating, Department Name, Class Name have connection to the Recommended IND column? Do they have a connection with the Positive Feedback Count column?
 
 You will have to conduct Classification to answer the first question and Regression to answer the second.
-
-[Dataset Used](https://usfca.instructure.com/courses/1620646/files/71909377/download?wrap=1)
-
