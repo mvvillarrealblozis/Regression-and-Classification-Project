@@ -33,3 +33,6 @@ Womens Clothing E-Commerce Reviews.csv.zipDownload Womens Clothing E-Commerce Re
 Does Age, Rating, Department Name, Class Name have connection to the Recommended IND column? Do they have a connection with the Positive Feedback Count column?
 
 You will have to conduct Classification to answer the first question and Regression to answer the second.
+
+[Uploading Womens Clothing E-Commerce Reviews.csv…]()
+
